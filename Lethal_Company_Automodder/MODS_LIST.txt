@@ -1,0 +1,23 @@
+MoreCompany == https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/
+TooManyEmotes == https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/
+InputUtils == https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/
+MoreItems == https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/
+OpenBodyCams == https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/
+LateCompany == https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/
+PathFindingLagFix == https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/
+MoreSuits == https://thunderstore.io/c/lethal-company/p/x753/More_Suits/
+SellMyScrap == https://thunderstore.io/c/lethal-company/p/Zehs/SellMyScrap/
+GokuBracken == https://thunderstore.io/c/lethal-company/p/Vulf/GokuBracken/
+YippeeSound == https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/
+LethalLib == https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/
+
+
+
+
+SCRIPT IGNORES LINES UNDER HERE
+
+INSERISCI LE MOD SOPRA, NON QUI SOTTO !!!
+
+DEPRECATED MoreEmotes == https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/
+LethalThings -> https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/
+XXXXXXXXX LC API -> https://thunderstore.io/c/lethal-company/p/DrFeederino/LC_API_V50/
