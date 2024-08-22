@@ -1,0 +1,23 @@
+HOW TO RUN:
+
+- Put your path to Lethal Company "plugins" folder, the one inside of BepInEx, inside of LETHAL_COMPANY_PATH.txt 
+	Do it by completely emptying the content of LETHAL_COMPANY_PATH.txt, leave ONLY your path.
+
+- Run autoupdater_and_runner.exe
+
+FINISH
+
+----------------------------
+
+If you do not wish to update the program, just run automodder_runner.exe
+
+You must at least run autoupdater_and_runner.exe once.
+
+
+----------------------------
+
+IF ANY PROBLEM WITH THE PROGRAM
+
+- run automodder_RESETTER.exe
+
+- follow HOW TO RUN
