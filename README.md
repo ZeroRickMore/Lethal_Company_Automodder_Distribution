@@ -1,5 +1,7 @@
 # Lethal_Company_Automodder
- An automodding script for lethal company by ZeroRickMore, not for commercial use
+ An automodding script for lethal company by ZeroRickMore.  
+ This README needs to be updated, some info is still reliable, but something has changed for sure.  
+ To make it work, just run in and follow the instruction in the terminal that opens.  
 
 ## How to use
 
