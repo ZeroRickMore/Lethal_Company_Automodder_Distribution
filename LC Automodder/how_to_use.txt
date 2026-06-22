@@ -2,18 +2,23 @@
 HOW TO RUN:
 
 - Click on automodder_UPDATER_and_RUNNER.exe
+OR
+- Click on automodder_RUNNER.exe (if you have it, and if you do not want the latest software update.)
 
 FINISH
 
 ----------------------------
 
-If you do not wish to update the program, just run automodder_RUNNER.exe (uses your latest version of the program)
-Note that you must at least run automodder_UPDATER_and_RUNNER.exe once for this to work.
+If you do not wish to update the program, just run automodder_RUNNER.exe
+(It uses latest version of the program on YOUR pc, which is generally totally fine!)
+
+If you do not see automodder_RUNNER.exe, simply run automodder_UPDATER_and_RUNNER.exe and it will magically appear!
 
 ----------------------------
 
 IF ANY PROBLEM WITH THE PROGRAM
 
-- run automodder_RESETTER.exe
+1) run automodder_RESETTER.exe
+2) run automodder_UPDATER_and_RUNNER.exe
 
-- follow HOW TO RUN
+If you want to re-download RESETTER and/or UPDATER, manually go into config.json and set 'Download Resetter' and/or 'Download Updater' to true.
